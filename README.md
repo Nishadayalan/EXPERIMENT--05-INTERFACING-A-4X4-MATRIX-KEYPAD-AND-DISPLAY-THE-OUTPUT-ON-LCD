@@ -183,8 +183,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
  Register no: 212223230143
 
-## STM 32 CUBE PROGRAM :
-
 ## lcd.h
 ```
 #ifndef LCD_H_
